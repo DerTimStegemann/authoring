@@ -1,16 +1,16 @@
 # authoring
 aufgabe4
 
-#Github Flavoured Markdown
-##Überschrift1
+# Github Flavoured Markdown
+## Überschrift1
 [ ] External Link
-##Überschrift2
+## Überschrift2
 [ ] Internal Link
-##Überschrift3
+## Überschrift3
 [ ] Images 
-##Überschrift4
+## Überschrift4
 [ ] Emojis
-##Überschrift5
+## Überschrift5
 [ ] Tables
 
 [github documentation](https://help.github.com/en)
