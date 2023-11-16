@@ -14,6 +14,8 @@ aufgabe4
 - [ ] Tables
 
 [github documentation](https://help.github.com/en)
+
 [Hier gehts zum Imagesfolder](./images)
+
 [Logo](./images/logo.png)
-|Name|Class|
+
