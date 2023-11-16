@@ -3,15 +3,15 @@ aufgabe4
 
 # Github Flavoured Markdown
 ## Überschrift1
-[ ] External Link
+- [ ] External Link
 ## Überschrift2
-[ ] Internal Link
+- [ ] Internal Link
 ## Überschrift3
-[ ] Images 
+- [ ] Images 
 ## Überschrift4
-[ ] Emojis
+- [ ] Emojis
 ## Überschrift5
-[ ] Tables
+- [ ] Tables
 
 [github documentation](https://help.github.com/en)
 [Hier gehts zum Imagesfolder](./images)
