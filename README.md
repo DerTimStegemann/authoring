@@ -3,13 +3,13 @@ aufgabe4
 
 # Github Flavoured Markdown
 ## Überschrift1
-- [ ] External Link
+- [x] External Link
 ## Überschrift2
-- [ ] Internal Link
+- [x] Internal Link
 ## Überschrift3
-- [ ] Images 
+- [x] Images 
 ## Überschrift4
-- [ ] Emojis
+- [x] Emojis
 ## Überschrift5
 - [ ] Tables
 
