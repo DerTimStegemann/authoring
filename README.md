@@ -17,5 +17,5 @@ aufgabe4
 
 [Hier gehts zum Imagesfolder](./images)
 
-[Logo](./images/logo.png)
+![Logo](./images/logo.png)
 
