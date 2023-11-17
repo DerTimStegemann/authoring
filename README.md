@@ -2,9 +2,9 @@
 aufgabe4
 
 # Github Flavoured Markdown
-## Überschrift1 😆
+## Überschrift1😆
 - [x] External Link
-## Überschrift2 🧤
+## Überschrift2🧤
 - [x] Internal Link 
 ## Überschrift3 
 - [x] Images 
@@ -25,9 +25,9 @@ aufgabe4
 |Tim             |Binary Bears    |
 
 
-[Überschrift1](#Überschrift1-😆)
+[Überschrift1](#Überschrift1😆)
 
-[Überschrift2](#Überschrift2-🧤)
+[Überschrift2](#Überschrift2🧤)
 
 [Überschrift3](#Überschrift3)
 
