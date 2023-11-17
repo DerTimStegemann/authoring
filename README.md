@@ -4,13 +4,13 @@ aufgabe4
 # Github Flavoured Markdown
 ## Überschrift1
 - [x] External Link
-## Überschrift2 😧
+## Überschrift2 
 - [x] Internal Link 
-## Überschrift3 ☣️
+## Überschrift3 
 - [x] Images 
-## Überschrift4 😆
+## Überschrift4 
 - [x] Emojis
-## Überschrift5 👼
+## Überschrift5 
 - [x] Tables
 
 [github documentation](https://help.github.com/en)
@@ -26,6 +26,14 @@ aufgabe4
 
 
 [Überschrift1](#Überschrift1)
+
+[Überschrift2](#Überschrift2)
+
+[Überschrift3](#Überschrift3)
+
+[Überschrift4](#Überschrift4)
+
+[Überschrift5](Überschrift5)
 
 
 
